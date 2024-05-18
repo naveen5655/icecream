@@ -11,7 +11,7 @@
 
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/9a3e74ff-9bf5-4bce-8f93-26148d6a4227)
 
-## FeedBack or Contactus Form
+## FeedBack and Contact Form
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6e1ded73-264c-4d5e-b758-02529ac1dbdc)
 
 
